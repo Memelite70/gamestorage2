@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.coolmathgames.com	TRUE	/	FALSE	1999999999	cmg_country	US
-www.coolmathgames.com	TRUE	/	FALSE	1999999999	cmg_region	NY
-www.coolmathgames.com	TRUE	/	FALSE	1999999999	cmg_city	Ithaca_NY
-www.coolmathgames.com	TRUE	/	FALSE	1999999999	cmg_city1	Ithaca
-
